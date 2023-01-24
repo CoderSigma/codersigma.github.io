@@ -13,6 +13,8 @@ body{
 	    font-family: Arial;
 	    float: left;
 	    border: solid 1px;
+	    border-radius: 20px;
+	    co
 	  }
 	  a:hover{
 	    color: red;
