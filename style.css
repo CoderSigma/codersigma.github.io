@@ -12,6 +12,7 @@ body{
 	    font-weight: 600;
 	    font-family: Arial;
 	    float: left;
+	    border: solid 1px;
 	  }
 	  a:hover{
 	    color: red;
