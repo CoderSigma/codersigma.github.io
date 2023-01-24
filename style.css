@@ -1,0 +1,20 @@
+body{
+	    background-color: black;
+	    align-content: center;
+	    align-items: center;
+	  }
+	  a{
+	    text-decoration: none;
+	    align-items: center;
+	    color: white;
+	    margin:20px;
+	    padding: 12px;
+	    font-weight: 600;
+	    font-family: Arial;
+	  }
+	  a:hover{
+	    color: red;
+	  }
+	  
+	    
+	  
