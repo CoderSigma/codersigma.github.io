@@ -3,7 +3,7 @@ body{
 	    align-content: center;
 	    align-items: center;
 	  }
-	  a{
+	  .menu ul li a{
 	    text-decoration: none;
 	    align-items: center;
 	    color: white;
@@ -16,7 +16,7 @@ body{
 	    border-radius: 20px;
 	    border-color: green;
 	  }
-	  a:hover{
+	  .menu ul li a:hover{
 	    color: red;
 	    border-color: white;
 	  }
